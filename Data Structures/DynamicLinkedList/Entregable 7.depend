@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1653107895 source:c:\users\ramir\onedrive\escritorio\entregable 7\album.cpp
+	"album.h"
+
+1653108366 c:\users\ramir\onedrive\escritorio\entregable 7\album.h
+	<string>
+	<iostream>
+
+1653155481 source:c:\users\ramir\onedrive\escritorio\entregable 7\main.cpp
+	<iostream>
+	"List.h"
+	"album.h"
+
+1653156357 c:\users\ramir\onedrive\escritorio\entregable 7\list.h
+	<exception>
+	<string>
+
+1653107895 source:c:\users\ramir\onedrive\escritorio\ramirez cuenca samuel osvaldo_entregable 7\album.cpp
+	"album.h"
+
+1653108366 c:\users\ramir\onedrive\escritorio\ramirez cuenca samuel osvaldo_entregable 7\album.h
+	<string>
+	<iostream>
+
+1653155481 source:c:\users\ramir\onedrive\escritorio\ramirez cuenca samuel osvaldo_entregable 7\main.cpp
+	<iostream>
+	"List.h"
+	"album.h"
+
+1653157261 c:\users\ramir\onedrive\escritorio\ramirez cuenca samuel osvaldo_entregable 7\list.h
+	<exception>
+	<string>
+
