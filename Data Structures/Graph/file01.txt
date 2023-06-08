@@ -1,0 +1,2 @@
+Mexico|Guadalajara|Tlaquepaque*Argentina|Misiones|Buenos Aires*Estados Unidos|Missisipi|New York*
+Mexico|Guadalajara|Tlaquepaque*50-Argentina|Misiones|Buenos Aires*Mexico|Guadalajara|Tlaquepaque*77-Estados Unidos|Missisipi|New York*Argentina|Misiones|Buenos Aires*44-Mexico|Guadalajara|Tlaquepaque*Estados Unidos|Missisipi|New York*99-Argentina|Misiones|Buenos Aires*

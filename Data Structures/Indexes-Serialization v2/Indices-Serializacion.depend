@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1667450279 source:c:\users\ramir\onedrive\escritorio\indices-serializacion\hashtable.cpp
+	"HashTable.h"
+
+1667449952 c:\users\ramir\onedrive\escritorio\indices-serializacion\hashtable.h
+	<iostream>
+	"Index.h"
+	"Node.h"
+
+1667425923 c:\users\ramir\onedrive\escritorio\indices-serializacion\index.h
+	"Node.h"
+
+1667424468 c:\users\ramir\onedrive\escritorio\indices-serializacion\node.h
+	"Student.h"
+
+1667425338 c:\users\ramir\onedrive\escritorio\indices-serializacion\student.h
+	<string>
+
+1667425923 source:c:\users\ramir\onedrive\escritorio\indices-serializacion\index.cpp
+	"Index.h"
+
+1667424500 source:c:\users\ramir\onedrive\escritorio\indices-serializacion\node.cpp
+	"Node.h"
+
+1667425356 source:c:\users\ramir\onedrive\escritorio\indices-serializacion\student.cpp
+	"Student.h"
+
+1667450137 source:c:\users\ramir\onedrive\escritorio\indices-serializacion\main.cpp
+	<iostream>
+	"HashTable.h"
+
