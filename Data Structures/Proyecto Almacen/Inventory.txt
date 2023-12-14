@@ -1,0 +1,5 @@
+
+	123|wii chipiada|Consolas|7|3000.01|
+	147|Alienware|Computacion|5|29999.99|
+	586|Nintendo Switch|Videojuegos|10|3500.00|
+	831|ss|ss|2|2.00|

@@ -1,0 +1,6 @@
+Producto: wii chipiada ingresado, cantidad: 10
+Producto: Alienware ingresado, cantidad: 5
+Vendido: wii chipiada	 Cantidad vendida: 2
+Vendido: wii chipiada	 Cantidad vendida: 1
+Producto: Nintendo Switch ingresado, cantidad: 10
+Producto: ss ingresado, cantidad: 2
